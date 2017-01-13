@@ -1,0 +1,148 @@
+Meeting with Neville
+---
+https://calendly.com/nbonavia/flexible-web-dev-bootcamp-mentor-session
+http://codepen.io/nbonavia/pen/BpozGJ
+https://code.visualstudio.com/
+
+
+
+
+
+
+--------
+
+javascript for web developers nicholas c. zakas
+
+indeed.com - front end web developer
+
+business cards
+
+emmet (sublime)
+http://emmet.io/
+
+brackets.io
+
+intelij
+
+https://www.udemy.com/understand-javascript/?start=0
+
+
+body{ height:100%}
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+install emmet
+
+
+http://tutorialspoint.com/
+
+
+UAT
+
+
+http://stackoverflow.com/questions/5497073/how-to-differentiate-single-click-event-and-double-click-event
+
+https://css-tricks.com/snippets/javascript/bind-different-events-to-click-and-double-click/
+
+// CSS Reset Codes:
+http://meyerweb.com/eric/tools/css/reset/reset.css
+https://necolas.github.io/normalize.css/5.0.0/normalize.css
+
+
+asams@thinkful.com
+
+
+pseduo code
+//location of pony
+
+//where pony should go
+
+//get pony to move
+
+
+<script src="loctaion of app.js">
+
+squirrelsql
+
+annonymous closure
+function(){}()
+
+
+https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
+
+
+
+http://www.w3schools.com/TAGs/att_input_type.asp
+
+regex  ^[A-Z a-z 0-9]
+
+^[A-Z+ a-z+ 0-9+ ] @[A-Z+ a-z+ 0-9+ ]
+
+
+http://regexr.com/
+
+
+'use strict'  - top of all JS files
+
+
+
+try{}catch(NullPointerException e){e.printstacktrace}
+
+
+logger
+middle wear and loggers
+
+foreach loop
+
+
+modular functional programming
+
+https://www.youtube.com/watch?v=HkFlM73G-hk  
+https://www.youtube.com/watch?v=orAS-MBh5f4
+
+Object Oriented Programming (OOP)
+
+function chaining - fun with functions
+
+
+Why Use Objects....
+Organize Code
+Don't Repeat Yourself
+Help stop memory leaks
+
+Carousel ... downloand and look at code
+http://kenwheeler.github.io/slick/
+
+
+for(var item in itemsList)
+
+
+Website for a coffee shop
+Carousel....
+Nav 
+make a slider from scratch
+
+
+http://kenwheeler.github.io/slick/
+
+
+Prototyping
+http://www.w3schools.com/js/js_object_prototypes.asp
+
+
+Pseudo Code
+Write down the problem and write down the steps
+
+
+./images/imagename.png
+
+
+
+http://solarmovie.sc/
+
+
+
+
+
+
